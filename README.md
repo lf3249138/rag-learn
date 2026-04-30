@@ -5,18 +5,6 @@
   <p><em>从理论到实践，从基础到进阶，构建你的RAG技术体系</em></p>
 </div>
 
-<div align="center">
-  <br>
-  <table>
-    <tr>
-      <td align="center">🎯 <strong>系统化学习</strong><br>完整的RAG技术体系</td>
-      <td align="center">🛠️ <strong>动手实践</strong><br>丰富的项目案例</td>
-      <td align="center">🚀 <strong>生产就绪</strong><br>工程化最佳实践</td>
-      <td align="center">📊 <strong>多模态支持</strong><br>文本+图像检索</td>
-    </tr>
-  </table>
-</div>
-
 ## 项目简介
 
 本项目是一个面向大模型应用开发者的RAG（检索增强生成）技术全栈教程，旨在通过体系化的学习路径和动手实践项目。
