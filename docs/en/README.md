@@ -1,10 +1,5 @@
-# All-in-RAG | Large Model Application Development Practice: RAG Technology Full-Stack Guide
+# Large Model Application Development Practice: RAG Technology Full-Stack Guide
 
-<div align='center'>
-  <img src="logo.svg" alt="All-in-RAG Logo" width="70%">
-</div>
-
-## Project Introduction [![Stars](https://img.shields.io/github/stars/datawhalechina/all-in-rag?style=social)](https://github.com/datawhalechina/all-in-rag/stargazers) ![GitHub forks](https://img.shields.io/github/forks/datawhalechina/all-in-rag) [![Python](https://img.shields.io/badge/Python-3.12.7-blue)](https://www.python.org/) [![Online Reading](https://img.shields.io/badge/Online%20Reading-Click%20Here-blue)](https://datawhalechina.github.io/)
 
 [中文](/) | English
 
@@ -133,50 +128,6 @@ all-in-rag/
 ### Chapter 9 Project I (Graph RAG Optimization):
 
 ![Project I (Graph RAG Optimization)](../project01_graph.png)
-
-### Chapter 10 Project II:
-
-## Acknowledgments
-
-**Core Contributors**
-- [Yin Dalv - Project Lead](https://github.com/FutureUnreal) (Project initiator and main contributor)
-
-### Special Thanks
-- Thanks to [@Sm1les](https://github.com/Sm1les) for help and support on this project
-- Thanks to all developers who contributed to this project
-- Thanks to the open source community for providing excellent tools and framework support
-- Special thanks to the following developers who contributed to the tutorial!
-
-[![Contributors](https://contrib.rocks/image?repo=datawhalechina/all-in-rag)](https://github.com/datawhalechina/all-in-rag/graphs/contributors)
-
-*Made with [contrib.rocks](https://contrib.rocks).*
-
-## Contributing
-
-We welcome all forms of contributions, including but not limited to:
-
-- 🚨 **Bug Reports**: Please submit [Issues](https://github.com/datawhalechina/all-in-rag/issues) if you find problems
-- 💭 **Feature Suggestions**: Welcome to discuss good ideas in [Discussions](https://github.com/datawhalechina/all-in-rag/discussions)
-- 📚 **Documentation Improvement**: Help improve documentation content and example code
-- ⚡ **Code Contributions**: Submit [Pull Requests](https://github.com/datawhalechina/all-in-rag/pulls) to improve the project
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/all-in-rag&type=Date)](https://star-history.com/#datawhalechina/all-in-rag&Date)
-
-<div align="center">
-  <p>If this project helps you, please give us a ⭐️</p>
-  <p>Let more people discover this project (Food protection? Bring it on!)</p>
-</div>
-
-![star](../emoji.png)
-
-## About Datawhale
-
-<div align='center'>
-    <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" alt="Datawhale" width="30%">
-    <p>Scan the QR code to follow Datawhale WeChat Official Account for more quality open source content</p>
-</div>
 
 ---
 
