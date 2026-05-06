@@ -32,12 +32,10 @@
 ## 目录结构说明
 
 ```
-all-in-rag/
-├── docs/           # 教程文档
+rag-learn/
 ├── code/           # 代码示例
 ├── data/           # 示例数据
-├── models/         # 预训练模型
-├── Extra-chapter/  # 扩展章节与社区实践内容
+├── rag_eval/       # rag评估
 └── README.md       # 项目说明
 ```
 
